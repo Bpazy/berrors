@@ -1,0 +1,2 @@
+# berrors
+Golang error wrapper
